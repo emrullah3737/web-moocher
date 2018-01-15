@@ -1,6 +1,6 @@
 {
   "name": "web-moocher",
-  "version": "1.0.0",
+  "version": "1.0.10",
   "description": "Web data moocker",
   "main": "app.js",
   "scripts": {
@@ -23,5 +23,10 @@
     "eslint": "^4.15.0",
     "eslint-config-airbnb-base": "^12.1.0",
     "eslint-plugin-import": "^2.8.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emrullah3737/web-moocher.git"
+  },
+  "homepage": "https://github.com/emrullah3737/web-moocher"
 }
