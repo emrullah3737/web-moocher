@@ -1,6 +1,6 @@
 {
   "name": "web-moocher",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Web data moocker",
   "main": "app.js",
   "scripts": {

@@ -19,6 +19,8 @@ mock.getTable({
   fields: {
     count: 3, // if you dont want all field, you must define column.length
     sort: ['Name', 'Surname'], // fields what you want
+    limit: 10,
+    skip: 3,
   },
 }).then((res) => {
   // ... Response (res is typeof Json Object)
